@@ -1,0 +1,15 @@
+ Fatalities,,Fatality Rate,,Fatality Rank,,Injuries,,Injuries Rate,,Penalties (Average $),,Penalties (Rank),,Inspectors,,Years to Inspect ,
+,,,,,,,,,,,,,,,,,
+Mean,92.34,Mean,4.318,Mean,25.1,Mean,61470,Mean,3.606,Mean,1727.88,Mean,25.5,Mean,38.72,Mean,123.88
+Standard Error,13.01357564,Standard Error,0.394365313,Standard Error,2.083609506,Standard Error,8058.126206,Standard Error,0.09308368,Standard Error,136.2421812,Standard Error,2.061552813,Standard Error,5.408311065,Standard Error,10.36783251
+Median,68.5,Median,3.5,Median,25,Median,47250,Median,3.5,Median,1812,Median,25.5,Median,26,Median,111.5
+Mode,63,Mode,3.5,Mode,25,Mode,47250,Mode,3.5,Mode,#N/A,Mode,#N/A,Mode,9,Mode,111
+Standard Deviation,92.01987585,Standard Deviation,2.78858387,Standard Deviation,14.73334411,Standard Deviation,56979.55684,Standard Deviation,0.658201011,Standard Deviation,963.3777024,Standard Deviation,14.57737974,Standard Deviation,38.24253429,Standard Deviation,73.31164676
+Sample Variance,8467.657551,Sample Variance,7.7762,Sample Variance,217.0714286,Sample Variance,3246669898,Sample Variance,0.433228571,Sample Variance,928096.5976,Sample Variance,212.5,Sample Variance,1462.491429,Sample Variance,5374.597551
+Kurtosis,11.6203897,Kurtosis,10.88719667,Kurtosis,-1.222620133,Kurtosis,12.38706974,Kurtosis,1.058429755,Kurtosis,10.50769144,Kurtosis,-1.2,Kurtosis,8.492948681,Kurtosis,17.22190569
+Skewness,2.998518277,Skewness,2.862892164,Skewness,0.042953212,Skewness,3.031898578,Skewness,0.743345318,Skewness,2.295996794,Skewness,0,Skewness,2.434654109,Skewness,3.421829602
+Range,528,Range,16.3,Range,49,Range,338900,Range,3.3,Range,6059,Range,49,Range,211,Range,490
+Minimum,8,Minimum,1.4,Minimum,1,Minimum,6500,Minimum,2.3,Minimum,363,Minimum,1,Minimum,5,Minimum,31
+Maximum,536,Maximum,17.7,Maximum,50,Maximum,345400,Maximum,5.6,Maximum,6422,Maximum,50,Maximum,216,Maximum,521
+Sum,4617,Sum,215.9,Sum,1255,Sum,3073500,Sum,180.3,Sum,86394,Sum,1275,Sum,1936,Sum,6194
+Count,50,Count,50,Count,50,Count,50,Count,50,Count,50,Count,50,Count,50,Count,50
